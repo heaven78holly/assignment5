@@ -174,4 +174,8 @@ retry-after: 60
 {"error":"too many login attempts","issues":[]}
 
 Bonus 20: Git repository
-local ve private gitHub repository oluşturuldu.
+Proje Git kullanılarak GitHub'a yüklendi.
+Kaynak kodlar, testler ve README dosyası main dalında bulunmaktadır.
+
+Repository:
+https://github.com/heaven78holly/assignment5
